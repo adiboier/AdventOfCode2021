@@ -70,6 +70,6 @@ void part2()
 
 int main()
 {
-    part2();
+    part1();
     return 0;
 }
